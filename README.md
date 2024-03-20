@@ -1,3 +1,5 @@
 # Tableau Dashboard of Store
-Aim to this Dashboard Project Sales and Profit Analysis.
+This Tableau Dashboard Project is about Sales and Profit Analysis of Store.
+
+Dashboard Given Link:
 https://public.tableau.com/app/profile/rahul.thakur2820/vizzes
